@@ -1,0 +1,5 @@
+# Ignore local Tesseract installation files
+*.exe
+*.1.html
+tessdata/
+doc/
